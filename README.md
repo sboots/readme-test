@@ -104,12 +104,12 @@ ____
 Bienvenue, et merci d’avoir pensé à contribuer à COVID Shield!
 
 - [Code de conduite](#code-de-conduite)
-- [Signalement des problèmes de sécurité](#signalement-problèmes-sécurité)
-- [Contribuer à la documentation](#contribuer-documentation)
-- [Contribuer au code](#contribuer-code)
-    1. [Configurer un environnement de développement local](#config-env)   
-    2. [Développer localement](#dév-local)  
-    3. [Réaliser des tests](#réaliser-tests)
+- [Signalement des problèmes de sécurité](#signalement-des-problèmes-de-sécurité)
+- [Contribuer à la documentation](#contribuer-à-la-documentation)
+- [Contribuer au code](#contribuer-au-code)
+    1. [Configurer un environnement de développement local](#1-configurer-un-environnement-de-développement-local)
+    2. [Développer localement](#2-développer-localement)
+    3. [Réaliser des tests](#3-réaliser-des-tests)
 
 ## Code de conduite
 

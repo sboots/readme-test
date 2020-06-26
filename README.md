@@ -1,4 +1,4 @@
-[La version française suit.](#---------------------------------------------------------------------)
+[La version française suit.](#serveur-de-diagnostic-covid-shield)
 
 # COVID Shield Diagnosis Server
 
@@ -229,7 +229,7 @@ COVID Shield was originally developed by [volunteers at Shopify](https://www.cov
 
 This repository is being developed by the [Canadian Digital Service](https://digital.canada.ca/). We can be reached at <cds-snc@tbs-sct.gc.ca>.
 
-## ---------------------------------------------------------------------
+____
 
 # Serveur de diagnostic COVID Shield
 

@@ -1,4 +1,4 @@
-[La version française suit.](#code-de-conduite-de-la-charte-des-contributeurs)
+[La version française suit.](#directives-de-contribution-au-serveur)
 
 # Contributing Guidelines
 

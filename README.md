@@ -245,15 +245,15 @@ Dans la présente documentation :
 
 - [Aperçu](#aperçu)
    - [Récupération des clés de diagnostic](#récupération-des-clés-de-diagnostic)
-   - [Récupération de la configuration d’exposition](#récupération-de-la-configuration-dexposition)
-   - [Envoi des clés de diagnostic](#envoi-des-clés-de-diagnostic)
+   - [Récupération de la configuration d’exposition](#récupération-de-la-configuration-de-lexposition)
+   - [Envoi des clés de diagnostic](#envoyer-les-clés-de-diagnostic)
 - [Utilisation des données](#utilisation-des-données)
-- [Génération de codes uniques](#génération-de-codes-uniques)
+- [Génération de codes uniques](#génération-de-codes-à-usage-unique)
 - [Documentation du protocole](#documentation-du-protocole)
-- [Notes de déploiement](#notes-déploiement)
-- [Mesures et traçage](#mesures-et-traçage)
+- [Remarques de déploiement](#remarques-de-déploiement)
+- [Indicateurs et traçage](#indicateurs-et-traçage)
 - [Contribution](#contribution)
-- [Qui a créé COVID Shield?](#qui-a-créé-covid-shield)
+- [Qui a conçu COVID Shield?](#qui-a-conçu-covid-shield)
 
 ## Aperçu
 
